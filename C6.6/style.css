@@ -1,0 +1,68 @@
+.allZon{
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin: 0 auto;
+	padding-left: 20px;
+	padding-bottom: 53px
+}
+.ahoChat {
+  display: flex;
+
+}
+
+.messageEd {
+  	align-items: center;
+    box-sizing: border-box;
+	flex: 0 1 524px;
+    min-height: 30
+      px;
+	padding-left: 35px;
+    padding-right: 35px;
+	border-radius: 5px;
+    margin-right: 22px;
+ 
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+}
+.geoLoc{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 200px;
+  height: 30px;
+  color: rgba(0, 0, 0, 1);
+  font-weight: 700;
+  background-color: rgba(186, 215, 236, 1);
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+  text-transform: uppercase;
+}
+.sendMess {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 200px;
+  height: 30px;
+  color: rgba(0, 0, 0, 1);
+  font-weight: 700;
+  background-color: rgba(186, 215, 236, 1);
+  border: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.Out{
+	max-width: 609px;
+    border-color: rgba(186, 215, 236, 1);
+  	padding-left: 35px;
+    padding-right: 35px;
+	  border: 5pt;
+    margin-top: 22px;
+    margin-right: 22px;
+}
+
